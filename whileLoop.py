@@ -1,6 +1,6 @@
-greeting = input("Hey how is it Going?")
+msg= input("Hey how is it Going?")
 
-while greeting != "stop copying me":
-    print(greeting)
-    greeting = input()
+while msg!= "stop copying me":
+    print(msg)
+    msg = input()
 print("YOU WIN")
